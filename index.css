@@ -140,7 +140,6 @@ img{
     display: none;
   }
 
-  /* 🔥 CATEGORY OVERLAP BOX */
   .category{
     display: flex;
     flex-direction: column;
