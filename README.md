@@ -19,3 +19,10 @@ This assignment is focused on implementing **responsiveness using HTML and CSS**
 - Left section is hidden.
 - **Search bar is visible** for better usability.
 - Articles are stacked vertically for easy scrolling.
+
+
+![Screenshot 1](https://raw.githubusercontent.com/ambar-ttn/assignment-3/main/Screenshot%20from%202026-01-30%2009-57-28.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/ambar-ttn/assignment-3/main/Screenshot%20from%202026-01-30%2009-57-46.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/ambar-ttn/assignment-3/main/Screenshot%20from%202026-01-30%2009-58-21.png)
